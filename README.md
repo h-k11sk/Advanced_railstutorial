@@ -1,2 +1,2 @@
 # Ruby on Rail
-Ajax test
+Advanced railstutorial
